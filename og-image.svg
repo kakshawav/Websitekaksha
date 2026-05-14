@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="title desc">
+  <title id="title">Kaksha Official Website</title>
+  <desc id="desc">Retro Kaksha social preview for Kaydie, Tasveer and Kash.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#09020e"/>
+      <stop offset="0.48" stop-color="#3a073d"/>
+      <stop offset="1" stop-color="#06272e"/>
+    </linearGradient>
+    <linearGradient id="disc" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ff2aa3"/>
+      <stop offset="0.35" stop-color="#f5ff31"/>
+      <stop offset="0.7" stop-color="#36ffe2"/>
+      <stop offset="1" stop-color="#7027ff"/>
+    </linearGradient>
+    <pattern id="scan" width="1" height="8" patternUnits="userSpaceOnUse">
+      <rect width="1" height="4" fill="rgba(255,255,255,0.08)"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#scan)"/>
+  <g opacity="0.5" stroke="#fffaf0" stroke-width="3" fill="none">
+    <circle cx="210" cy="124" r="210"/>
+    <circle cx="1010" cy="520" r="260"/>
+    <ellipse cx="640" cy="326" rx="360" ry="116" transform="rotate(-12 640 326)" stroke-dasharray="12 12"/>
+  </g>
+  <circle cx="820" cy="326" r="178" fill="url(#disc)" stroke="#fffaf0" stroke-width="22"/>
+  <circle cx="820" cy="326" r="44" fill="#070509"/>
+  <text x="74" y="244" fill="#fffaf0" stroke="#000" stroke-width="10" paint-order="stroke" font-family="Arial Black, Impact, sans-serif" font-size="142" font-weight="900" letter-spacing="-12">KAK</text>
+  <text x="116" y="368" fill="#36ffe2" stroke="#000" stroke-width="10" paint-order="stroke" font-family="Arial Black, Impact, sans-serif" font-size="142" font-weight="900" letter-spacing="-12">SHA</text>
+  <path d="M92 348 C340 248 720 186 1110 146" stroke="#fffaf0" stroke-width="18" fill="none"/>
+  <path d="M92 348 C340 248 720 186 1110 146" stroke="#000" stroke-width="10" fill="none"/>
+  <text x="78" y="482" fill="#fffaf0" stroke="#000" stroke-width="5" paint-order="stroke" font-family="Tahoma, Verdana, sans-serif" font-size="36" font-weight="900">Kaydie. Tasveer. Kash.</text>
+  <text x="78" y="536" fill="#f5ff31" stroke="#000" stroke-width="5" paint-order="stroke" font-family="Tahoma, Verdana, sans-serif" font-size="32" font-weight="900">Dard / Chupja Kahi / Safar / Aaina / Darbadar</text>
+  <text x="706" y="342" fill="#050009" stroke="#fffaf0" stroke-width="14" paint-order="stroke" font-family="Arial Black, Impact, sans-serif" font-size="54" font-weight="900" transform="rotate(-8 706 342)">NOT FOUND</text>
+</svg>

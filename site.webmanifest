@@ -1,0 +1,9 @@
+{
+  "name": "Kaksha Official Website",
+  "short_name": "Kaksha",
+  "description": "Official Kaksha website for Kaydie, Tasveer and Kash.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070509",
+  "theme_color": "#070509"
+}
